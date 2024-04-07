@@ -1,4 +1,22 @@
-### Hi there 👋
+### Tata Vachnadze @tatavachnadze
+**.NET/C# Developer**
+
+*Georgia / Tbilisi / Tel: +995 599 15 86 06*<br/>
+tata0vachnadze@gmail.com<br/>
+**Education**: 1.5+ years<br/>
+ [Linkedin](https://www.linkedin.com/in/tata-vachnadze-34226717b/)<br/>
+ **About:**<br/>
+Highly motivated junior developer with a solid foundation in C#/.NET Core, ASP.NET Core. Enthusiastic to contribute and expand skills within a collaborative setting.
+
+### Knowledge & Skills
+**Programming Languages**: C#<br/>
+**Frameworks and Libraries**: .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Web API, LINQ, ADO.NET<br/>
+**Databases**:SQL Server<br/>
+**Web Technologies**: Windows Forms, HTML/CSS<br/>
+**Development Tools and Environments**: Microsoft Visual Studio, Microsoft SQL Server, Github, <br/>
+**Methodologies**: OOP, Basic knowledge of software testing and debugging, Understanding of Agile development methodologies<br/>
+**Soft Skills**: Effective Communication, Teamwork, Critical thinking, Problem-Solving, Creativity, Adaptability to different people and situations<br/>
+
 
 <!--
 **tatavachnadze/tatavachnadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

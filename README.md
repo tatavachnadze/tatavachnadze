@@ -10,11 +10,11 @@ Highly motivated junior developer with a solid foundation in C#/.NET Core, ASP.N
 
 ### Knowledge & Skills
 **Programming Languages**: C#<br/>
-**Frameworks and Libraries**: .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Web API, LINQ, ADO.NET<br/>
+**Frameworks and Libraries**: .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Web API, LINQ, ADO.NET, MediatR<br/>
 **Databases**:Microsoft SQL Server<br/>
 **Web Technologies**: Windows Forms, HTML/CSS<br/>
 **Development Tools and Environments**: Microsoft Visual Studio, Git, Swagger, Postman<br/>
-**Methodologies**: OOP, Basic software testing and debugging, Understanding of Agile development methodologies<br/>
+**Methodologies & Patterns**: OOP, familiarity with SOLID, Creational Patterns(Singleton, Factory Method, Builder, Abstract Factory), Behavioral(Mediator)<br/>
 **Soft Skills**: Effective Communication, Teamwork, Critical thinking, Problem-Solving, Creativity, Adaptability to different people and situations<br/>
 **Problem Solving:** [LeetCode](https://leetcode.com/tatavachnadze/)<br/>
 **Learning Sources:** 

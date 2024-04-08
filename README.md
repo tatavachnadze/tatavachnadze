@@ -11,11 +11,17 @@ Highly motivated junior developer with a solid foundation in C#/.NET Core, ASP.N
 ### Knowledge & Skills
 **Programming Languages**: C#<br/>
 **Frameworks and Libraries**: .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Web API, LINQ, ADO.NET<br/>
-**Databases**:SQL Server<br/>
+**Databases**:Microsoft SQL Server<br/>
 **Web Technologies**: Windows Forms, HTML/CSS<br/>
-**Development Tools and Environments**: Microsoft Visual Studio, Microsoft SQL Server, Github, <br/>
-**Methodologies**: OOP, Basic knowledge of software testing and debugging, Understanding of Agile development methodologies<br/>
+**Development Tools and Environments**: Microsoft Visual Studio, Git, Swagger, Postman<br/>
+**Methodologies**: OOP, Basic software testing and debugging, Understanding of Agile development methodologies<br/>
 **Soft Skills**: Effective Communication, Teamwork, Critical thinking, Problem-Solving, Creativity, Adaptability to different people and situations<br/>
+**Problem Solving:** [LeetCode](https://leetcode.com/tatavachnadze/)<br/>
+**Learning Sources:** 
+  - [C# 4.0: The Complete Reference](https://www.amazon.com/4-0-Complete-Reference-Herbert-Schildt/dp/007174116X) - by Herbert Schildt<br/>
+  - [Pro ASP.NET Core 6: Develop Cloud-Ready Web Applications](https://www.amazon.com/Pro-ASP-NET-Core-Cloud-Ready-Applications/dp/1484279565) - by Adam Freeman<br/>
+  - [CLR via C# 4th Edition](https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457) - by Jeffrey Richter
+
 
 
 <!--

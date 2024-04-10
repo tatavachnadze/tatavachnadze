@@ -1,23 +1,44 @@
 ### Tata Vachnadze @tatavachnadze
-**.NET/C# Developer**
+**.NET / C# Developer**
 
 *Georgia / Tbilisi / Tel: +995 599 15 86 06*<br/>
 tata0vachnadze@gmail.com<br/>
 **Education**: 1.5+ years<br/>
- [Linkedin](https://www.linkedin.com/in/tata-vachnadze-34226717b/)<br/>
- **About:**<br/>
+[Linkedin](https://www.linkedin.com/in/tata-vachnadze-34226717b/)
+
+## About
 Highly motivated junior developer with a solid foundation in C#/.NET Core, ASP.NET Core. Enthusiastic to contribute and expand skills within a collaborative setting.
 
-### Knowledge & Skills
-**Programming Languages**: C#<br/>
-**Frameworks and Libraries**: .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Web API, LINQ, ADO.NET, MediatR<br/>
-**Databases**:Microsoft SQL Server<br/>
-**Web Technologies**: Windows Forms, HTML/CSS<br/>
-**Development Tools and Environments**: Microsoft Visual Studio, Git, Swagger, Postman<br/>
-**Methodologies & Patterns**: OOP, familiarity with SOLID, Creational Patterns(Singleton, Factory Method, Builder, Abstract Factory), Behavioral(Mediator)<br/>
-**Soft Skills**: Effective Communication, Teamwork, Critical thinking, Problem-Solving, Creativity, Adaptability to different people and situations<br/>
-**Problem Solving:** [LeetCode](https://leetcode.com/tatavachnadze/)<br/>
-**Learning Sources:** 
+## Knowledge & Skills
+
+**Programming Languages**
+- C#
+- HTMl/CSS/JavaScript
+- T-SQL (JOIN, View, Stored Procedures)
+
+**Frameworks and Libraries**
+- .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Web API, LINQ, ADO.NET, MediatR
+- Windows Forms
+- Microsoft SQL Server
+
+**Development Tools and Environments**
+- Microsoft Visual Studio, Visual Studio Code
+- SQL Server Managment Studio, SQL Profiler
+- Git, GitHub
+- Swagger, Postman, Fiddler
+
+**Familiar Methodologies & Patterns** 
+- OOP, SOLID
+- Design Patterns: Singleton, Factory Method, Builder, Abstract Factory, Mediator
+
+**Soft Skills**
+- Effective Communication, Teamwork, Critical thinking, Problem-Solving, Creativity, Adaptability to different people and situations
+
+
+## Problem Solving
+- [LeetCode](https://leetcode.com/tatavachnadze/)
+
+## 📚 Favorite Books / Tutorials / References
   - [C# 4.0: The Complete Reference](https://www.amazon.com/4-0-Complete-Reference-Herbert-Schildt/dp/007174116X) - by Herbert Schildt<br/>
   - [Pro ASP.NET Core 6: Develop Cloud-Ready Web Applications](https://www.amazon.com/Pro-ASP-NET-Core-Cloud-Ready-Applications/dp/1484279565) - by Adam Freeman<br/>
   - [CLR via C# 4th Edition](https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457) - by Jeffrey Richter

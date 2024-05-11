@@ -13,7 +13,7 @@ Highly motivated junior developer with a solid foundation in C#/.NET Core, ASP.N
 
 **Programming Languages**
 - C#
-- HTMl/CSS/JavaScript
+- HTMl/CSS
 - T-SQL (JOIN, View, Stored Procedures)
 
 **Frameworks and Libraries**
@@ -23,9 +23,9 @@ Highly motivated junior developer with a solid foundation in C#/.NET Core, ASP.N
 
 **Development Tools and Environments**
 - Microsoft Visual Studio, Visual Studio Code
-- SQL Server Managment Studio, SQL Profiler
+- SQL Server Managment Studio
 - Git, GitHub
-- Swagger, Postman, Fiddler
+- Swagger, Postman
 
 **Familiar Methodologies & Patterns** 
 - OOP, SOLID

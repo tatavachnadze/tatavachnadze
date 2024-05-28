@@ -14,7 +14,7 @@ Highly motivated junior developer with a solid foundation in C#/.NET Core, ASP.N
 **Programming Languages**
 - C#
 - HTMl/CSS
-- T-SQL (JOIN, View, Stored Procedures)
+- T-SQL
 
 **Frameworks and Libraries**
 - .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Web API, LINQ, ADO.NET, MediatR

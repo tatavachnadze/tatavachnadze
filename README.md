@@ -22,7 +22,7 @@ Highly motivated junior developer with a solid foundation in C#/.NET Core, ASP.N
 - Microsoft SQL Server
 
 **Development Tools and Environments**
-- Microsoft Visual Studio, Visual Studio Code
+- Microsoft Visual Studio
 - SQL Server Managment Studio
 - Git, GitHub
 - Swagger, Postman

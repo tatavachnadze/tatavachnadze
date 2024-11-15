@@ -6,9 +6,8 @@ tata0vachnadze@gmail.com<br/>
 **Education**: 1.5+ years<br/>
 [Linkedin](https://www.linkedin.com/in/tata-vachnadze-34226717b/)
 
-## About
-Highly motivated junior developer with a solid foundation in C#/.NET Core, ASP.NET Core. Enthusiastic to contribute and expand skills within a collaborative setting.
-
+** Experience**
+Commercial Green Solutions - Full Stack Developer, contractor (October 2024 - Present)
 ## Knowledge & Skills
 
 **Programming Languages**

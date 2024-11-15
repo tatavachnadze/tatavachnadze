@@ -6,7 +6,7 @@ tata0vachnadze@gmail.com<br/>
 **Education**: 1.5+ years<br/>
 [Linkedin](https://www.linkedin.com/in/tata-vachnadze-34226717b/)
 
-** Experience**
+## Experience
 Commercial Green Solutions - Full Stack Developer, contractor (October 2024 - Present)
 ## Knowledge & Skills
 

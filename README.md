@@ -8,7 +8,7 @@ tata0vachnadze@gmail.com<br/>
 
 ## Experience
 **Commercial Green Solutions** - Full Stack Developer, contractor (October 2024 - Present) 
-**Skills for the position**: - C# · JavaScript · React.js · .NET Core · Nginx · SQL 
+- **Skills for the position**: - C# · JavaScript · React.js · .NET Core · Nginx · SQL 
 ## Knowledge & Skills
 
 **Programming Languages**
